@@ -1,1 +1,1 @@
-Vale, pues esta es la primera versión -> voy a nueva rama  
+Vale, pues esta es la primera versión -> sigo en master pero con leves cambios
